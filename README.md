@@ -2,7 +2,7 @@
 Author: Abgail Basener 
 4/8/2022
 
-The Matlab code will find the importance for predicting variables, using random forest. 
+The MATLAB code will find the importance for predicting variables, using random forest. 
 
 Runing:
 The program will run through multiple  leaf sizes to find the best size. Looking at error rates of the random forests.
